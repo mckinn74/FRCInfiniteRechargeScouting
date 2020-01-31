@@ -1,0 +1,121 @@
+<resources>
+    <string name="app_name">FRC Infinite Recharge Scouting</string>
+    <string name="new_team_btn">Add New Team</string>
+    <string name="view_btn">View Teams</string>
+    <string name="view_single_btn">View Single Team</string>
+    <string name="single_team_hint">Enter Team Number</string>
+    <string name="team_nmber">Team #</string>
+    <string name="team_name">Team Name </string>
+    <string name="drive_train">Drive Train</string>
+    <string name="cargo_type">Power Cells</string>
+    <string name="reload">Reload</string>
+    <string name="can_start">CAN Start</string>
+    <string name="pref_start">PREF Start</string>
+    <string name="climb">Climbing</string>
+    <string name="sand_storm">Autonomous</string>
+    <string name="rbt_pload">Power Cell Pre-Load</string>
+    <string name="pod_pload">Not Required</string>
+    <string name="rbt_photo">Robot Photo</string>
+    <string name="matches"> Number of Matches</string>
+    <string name="ttl_score">Total Score</string>
+    <string name="ttl_wins">Total Wins</string>
+    <string name="ttl_rp">Total Ranking Points</string>
+    <string name="hatches">Control Panel</string>
+    <string name="team_name_hint">Enter Team Name</string>
+    <string name="submit_new">Add Team To Database</string>
+    <string name="submit_view">View All Teams</string>
+    <string name="delete">Clear Database</string>
+    <string name="search_settings">Search Settings</string>
+    <string name ="root_title">Preferences</string>
+    <string name="search_option">Search Options</string>
+
+    <string-array name="DriveTrain">
+        <item>Select Drive Train</item>
+        <item>Tank 4 Wheel</item>
+        <item>Tank 6 Wheel</item>
+        <item>Tank Treads</item>
+        <item>Arcade 4 Weel</item>
+        <item>Arcade 6 Wheel</item>
+        <item>Arcade Tread</item>
+        <item>Mecanum</item>
+        <item>Omni</item>
+    </string-array>
+
+    <string-array name="Hatches">
+        <item>Select control Panel Option</item>
+        <item>Cannot Spin Control Panels</item>
+        <item>Spin Random</item>
+        <item>Spin given number of times</item>
+        <item>Spin to specific colors</item>
+
+    </string-array>
+
+    <string-array name="Cargo">
+        <item>Select Power Cell Scoring Option</item>
+        <item>Cannot Score Power Cells</item>
+        <item>Lower Level Only</item>
+        <item>Lower and Outer Levels</item>
+        <item>ALL Levels</item>
+        <item>Outer Level Only</item>
+        <item>All Upper Level</item>
+        <item>Inner Level Only</item>
+    </string-array>
+
+    <string-array name="Reload">
+        <item>Select Reload Option</item>
+        <item>Cannot Reload</item>
+        <item>Loading Bay Only</item>
+        <item>Floor Only</item>
+        <item>Both Loading Bay and Floor</item>
+    </string-array>
+
+    <string-array name="Can_Start">
+        <item>Select Can Start Option</item>
+        <item>Left</item>
+        <item>Right</item>
+        <item>Center</item>
+        <item>All</item>
+    </string-array>
+
+    <string-array name="Pref_Start">
+        <item>Select Preferred Starting Option</item>
+        <item>Left</item>
+        <item>Right</item>
+        <item>Center</item>
+        <item>No Preference</item>
+
+    </string-array>
+
+    <string-array name="Climb">
+        <item>Select Climbing Option</item>
+        <item>1st Level Only</item>
+        <item>1st and 2nd Level</item>
+        <item>1st, 2nd, and 3rd Level</item>
+    </string-array>
+
+    <string-array name="SandStorm">
+        <item>Select Sandstorm Option</item>
+        <item>Autonomous FWD</item>
+        <item>Autonomous FWD and Score</item>
+        <item>Camera FWD</item>
+        <item>Camera FWD and Score</item>
+        <item>No Sandstorm capability</item>
+    </string-array>
+
+    <string-array name="robot_preload">
+        <item>Select Robot Preload Option</item>
+        <item>No PreLoad</item>
+        <item>Hatch Panel</item>
+        <item>Cargo</item>
+
+    </string-array>
+    <string-array name="pod_preload">
+        <item>Select Pod Preload Option</item>
+        <item>No Preload</item>
+        <item>1 Power Cell</item>
+        <item>2 Power Cells</item>
+        <item>3 Power Cells</item>
+    </string-array>
+
+
+</resources>
